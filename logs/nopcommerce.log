@@ -1,0 +1,494 @@
+2025-09-10 20:31:34:INFO:****************Test_01_Admin_Login*******************
+2025-09-10 20:31:34:INFO:****************Verification of Admin Login Page Title*******************
+2025-09-10 20:31:36:INFO:****************Title Matched*******************
+2025-09-10 20:31:38:INFO:****************Test Login Started*******************
+2025-09-10 20:31:45:INFO:****************Dashboard Text Found*******************
+2025-09-10 20:31:47:INFO:****************Test Invalid Login Started*******************
+2025-09-10 20:31:52:INFO:****************Test Invalid Login Error Message Matched*******************
+2025-09-10 20:35:12:INFO:**************** Test Admin Login *******************
+2025-09-10 20:35:12:INFO:**************** Verification of Admin Login Page Title *******************
+2025-09-10 20:35:13:INFO:**************** Title Matched *******************
+2025-09-10 20:35:15:INFO:**************** Test Login Started *******************
+2025-09-10 20:35:22:INFO:**************** Dashboard Text Found *******************
+2025-09-10 20:35:24:INFO:**************** Test Invalid Login Started *******************
+2025-09-10 20:35:27:INFO:**************** Test Invalid Login Error Message Matched *******************
+2025-09-10 20:54:01:INFO:**************** Test Admin Login *******************
+2025-09-10 20:54:01:INFO:**************** Verification of Admin Login Page Title *******************
+2025-09-10 20:54:02:INFO:**************** Title Matched *******************
+2025-09-10 20:54:04:INFO:**************** Test Login Started *******************
+2025-09-10 20:54:21:INFO:**************** Dashboard Text Found *******************
+2025-09-10 20:54:23:INFO:**************** Test Invalid Login Started *******************
+2025-09-10 20:54:28:INFO:**************** Test Invalid Login Error Message Matched *******************
+2025-09-10 20:55:48:INFO:**************** Test Admin Login *******************
+2025-09-10 20:55:48:INFO:**************** Verification of Admin Login Page Title *******************
+2025-09-10 20:55:49:INFO:**************** Title Matched *******************
+2025-09-10 20:56:00:INFO:**************** Test Login Started *******************
+2025-09-10 20:56:06:INFO:**************** Dashboard Text Found *******************
+2025-09-10 20:56:17:INFO:**************** Test Invalid Login Started *******************
+2025-09-10 20:56:19:INFO:**************** Test Invalid Login Error Message Matched *******************
+2025-09-10 20:56:38:INFO:**************** Test Admin Login *******************
+2025-09-10 20:56:38:INFO:**************** Verification of Admin Login Page Title *******************
+2025-09-10 20:56:39:INFO:**************** Title Matched *******************
+2025-09-10 20:56:41:INFO:**************** Test Login Started *******************
+2025-09-10 20:56:53:INFO:**************** Dashboard Text Found *******************
+2025-09-10 20:56:55:INFO:**************** Test Invalid Login Started *******************
+2025-09-10 20:56:58:INFO:**************** Test Invalid Login Error Message Matched *******************
+2025-09-10 21:03:17:INFO:**************** Test Admin Login *******************
+2025-09-10 21:03:17:INFO:**************** Verification of Admin Login Page Title *******************
+2025-09-10 21:03:17:INFO:**************** Test Login Started *******************
+2025-09-10 21:03:17:INFO:**************** Test Invalid Login Started *******************
+2025-09-10 21:03:19:INFO:**************** Title Matched *******************
+2025-09-10 21:03:20:INFO:**************** Test Invalid Login Error Message Matched *******************
+2025-09-10 21:03:23:INFO:**************** Dashboard Text Found *******************
+2025-09-10 21:04:09:INFO:**************** Test Admin Login *******************
+2025-09-10 21:04:09:INFO:**************** Verification of Admin Login Page Title *******************
+2025-09-10 21:04:09:INFO:**************** Test Login Started *******************
+2025-09-10 21:04:14:INFO:**************** Title Matched *******************
+2025-09-10 21:04:16:INFO:**************** Dashboard Text Found *******************
+2025-09-10 21:04:16:INFO:**************** Test Invalid Login Started *******************
+2025-09-10 21:04:20:INFO:**************** Test Invalid Login Error Message Matched *******************
+2025-09-10 21:04:31:INFO:**************** Test Admin Login *******************
+2025-09-10 21:04:31:INFO:**************** Verification of Admin Login Page Title *******************
+2025-09-10 21:04:32:INFO:**************** Title Matched *******************
+2025-09-10 21:04:34:INFO:**************** Test Login Started *******************
+2025-09-10 21:04:54:INFO:**************** Dashboard Text Found *******************
+2025-09-10 21:04:56:INFO:**************** Test Invalid Login Started *******************
+2025-09-10 21:05:00:INFO:**************** Test Invalid Login Error Message Matched *******************
+2025-09-10 21:05:14:INFO:**************** Test Admin Login *******************
+2025-09-10 21:05:14:INFO:**************** Verification of Admin Login Page Title *******************
+2025-09-10 21:05:14:INFO:**************** Test Invalid Login Started *******************
+2025-09-10 21:05:14:INFO:**************** Test Login Started *******************
+2025-09-10 21:05:15:INFO:**************** Title Matched *******************
+2025-09-10 21:05:17:INFO:**************** Test Invalid Login Error Message Matched *******************
+2025-09-10 21:05:23:INFO:**************** Dashboard Text Found *******************
+2025-09-11 12:04:58:INFO:**************** Test Admin Login *******************
+2025-09-11 12:04:58:INFO:**************** Verification of Admin Login Page Title *******************
+2025-09-11 12:04:59:INFO:**************** Title Matched *******************
+2025-09-11 12:05:01:INFO:**************** Test Login Started *******************
+2025-09-11 12:05:08:INFO:**************** Dashboard Text Found *******************
+2025-09-11 12:05:10:INFO:**************** Test Invalid Login Started *******************
+2025-09-11 12:05:13:INFO:**************** Test Invalid Login Error Message Matched *******************
+2025-09-11 12:19:21:INFO:**************** Test Admin Login *******************
+2025-09-11 12:19:21:INFO:**************** Verification of Admin Login Page Title *******************
+2025-09-11 12:19:22:INFO:**************** Title Matched *******************
+2025-09-11 12:19:25:INFO:**************** Test Login Started *******************
+2025-09-11 12:19:30:INFO:**************** Dashboard Text Found *******************
+2025-09-11 12:19:33:INFO:**************** Test Invalid Login Started *******************
+2025-09-11 12:19:36:INFO:**************** Test Invalid Login Error Message Matched *******************
+2025-09-12 17:15:29:INFO:**************** Test Login Data Driven Started *******************
+2025-09-12 17:15:43:INFO:Test Data Passed.
+2025-09-12 17:15:53:INFO:Test Data Passed.
+2025-09-12 17:17:38:INFO:**************** Test Login Data Driven Started *******************
+2025-09-12 17:17:49:INFO:Test Data Passed.
+2025-09-12 17:19:12:INFO:**************** Test Login Data Driven Started *******************
+2025-09-12 17:19:57:INFO:Test Data Passed.
+2025-09-12 17:20:08:INFO:Test Data Passed.
+2025-09-14 11:57:02:INFO:**********Test Case 3: Add New Customer Started ************
+2025-09-14 11:57:08:INFO:********* Login Completed **********
+2025-09-14 11:57:08:INFO:************ Starting Add Customer Test **************
+2025-09-14 11:57:13:INFO:************** Providing Customer Info Started ****************
+2025-09-14 11:59:38:INFO:**********Test Case 3: Add New Customer Started ************
+2025-09-14 11:59:44:INFO:********* Login Completed **********
+2025-09-14 11:59:44:INFO:************ Starting Add Customer Test **************
+2025-09-14 11:59:50:INFO:************** Providing Customer Info Started ****************
+2025-09-14 12:12:55:INFO:**********Test Case 3: Add New Customer Started ************
+2025-09-14 12:13:00:INFO:********* Login Completed **********
+2025-09-14 12:13:00:INFO:************ Starting Add Customer Test **************
+2025-09-14 12:13:05:INFO:************** Providing Customer Info Started ****************
+2025-09-14 12:14:53:INFO:**********Test Case 3: Add New Customer Started ************
+2025-09-14 12:14:58:INFO:********* Login Completed **********
+2025-09-14 12:14:58:INFO:************ Starting Add Customer Test **************
+2025-09-14 12:15:01:INFO:************** Providing Customer Info Started ****************
+2025-09-14 12:16:13:INFO:**********Test Case 3: Add New Customer Started ************
+2025-09-14 12:16:18:INFO:********* Login Completed **********
+2025-09-14 12:16:18:INFO:************ Starting Add Customer Test **************
+2025-09-14 12:16:22:INFO:************** Providing Customer Info Started ****************
+2025-09-14 12:17:49:INFO:**********Test Case 3: Add New Customer Started ************
+2025-09-14 12:17:56:INFO:********* Login Completed **********
+2025-09-14 12:17:56:INFO:************ Starting Add Customer Test **************
+2025-09-14 12:17:58:INFO:************** Providing Customer Info Started ****************
+2025-09-14 12:19:27:INFO:**********Test Case 3: Add New Customer Started ************
+2025-09-14 12:19:32:INFO:********* Login Completed **********
+2025-09-14 12:19:32:INFO:************ Starting Add Customer Test **************
+2025-09-14 12:19:37:INFO:************** Providing Customer Info Started ****************
+2025-09-14 12:24:58:INFO:**************** Test Login Data Driven Started *******************
+2025-09-14 12:25:08:INFO:Test Data Passed.
+2025-09-14 12:25:28:INFO:**********Test Case 3: Add New Customer Started ************
+2025-09-14 12:25:33:INFO:********* Login Completed **********
+2025-09-14 12:25:33:INFO:************ Starting Add Customer Test **************
+2025-09-14 12:25:39:INFO:************** Providing Customer Info Started ****************
+2025-09-14 12:27:54:INFO:**********Test Case 3: Add New Customer Started ************
+2025-09-14 12:27:59:INFO:********* Login Completed **********
+2025-09-14 12:27:59:INFO:************ Starting Add Customer Test **************
+2025-09-14 12:28:07:INFO:************** Providing Customer Info Started ****************
+2025-09-14 12:29:42:INFO:**********Test Case 3: Add New Customer Started ************
+2025-09-14 12:29:50:INFO:********* Login Completed **********
+2025-09-14 12:29:50:INFO:************ Starting Add Customer Test **************
+2025-09-14 12:29:53:INFO:************** Providing Customer Info Started ****************
+2025-09-14 12:31:28:INFO:**********Test Case 3: Add New Customer Started ************
+2025-09-14 12:31:34:INFO:********* Login Completed **********
+2025-09-14 12:31:34:INFO:************ Starting Add Customer Test **************
+2025-09-14 12:31:38:INFO:************** Providing Customer Info Started ****************
+2025-09-14 12:32:19:INFO:**********Test Case 3: Add New Customer Started ************
+2025-09-14 12:32:24:INFO:********* Login Completed **********
+2025-09-14 12:32:24:INFO:************ Starting Add Customer Test **************
+2025-09-14 12:32:30:INFO:************** Providing Customer Info Started ****************
+2025-09-14 12:35:25:INFO:**********Test Case 3: Add New Customer Started ************
+2025-09-14 12:35:32:INFO:********* Login Completed **********
+2025-09-14 12:35:32:INFO:************ Starting Add Customer Test **************
+2025-09-14 12:35:35:INFO:************** Providing Customer Info Started ****************
+2025-09-14 12:35:41:INFO:************** nopCommerce admin demo store Selected *****************
+2025-09-14 12:39:29:INFO:**********Test Case 3: Add New Customer Started ************
+2025-09-14 12:39:34:INFO:********* Login Completed **********
+2025-09-14 12:39:34:INFO:************ Starting Add Customer Test **************
+2025-09-14 12:39:37:INFO:************** Providing Customer Info Started ****************
+2025-09-14 12:39:42:INFO:************** nopCommerce admin demo store Selected *****************
+2025-09-14 12:48:19:INFO:**********Test Case 3: Add New Customer Started ************
+2025-09-14 12:48:26:INFO:********* Login Completed **********
+2025-09-14 12:48:26:INFO:************ Starting Add Customer Test **************
+2025-09-14 12:48:30:INFO:************** Providing Customer Info Started ****************
+2025-09-14 12:48:34:INFO:************** nopCommerce admin demo store Selected *****************
+2025-09-14 12:51:53:INFO:**********Test Case 3: Add New Customer Started ************
+2025-09-14 12:52:00:INFO:********* Login Completed **********
+2025-09-14 12:52:00:INFO:************ Starting Add Customer Test **************
+2025-09-14 12:52:30:INFO:**********Test Case 3: Add New Customer Started ************
+2025-09-14 12:52:38:INFO:********* Login Completed **********
+2025-09-14 12:52:38:INFO:************ Starting Add Customer Test **************
+2025-09-14 12:52:41:INFO:************** Providing Customer Info Started ****************
+2025-09-14 12:52:47:INFO:************** nopCommerce admin demo store Selected *****************
+2025-09-14 12:54:37:INFO:**********Test Case 3: Add New Customer Started ************
+2025-09-14 12:54:42:INFO:********* Login Completed **********
+2025-09-14 12:54:42:INFO:************ Starting Add Customer Test **************
+2025-09-14 12:54:47:INFO:************** Providing Customer Info Started ****************
+2025-09-14 12:54:52:INFO:************** nopCommerce admin demo store Selected *****************
+2025-09-14 12:56:48:INFO:**********Test Case 3: Add New Customer Started ************
+2025-09-14 12:56:56:INFO:********* Login Completed **********
+2025-09-14 12:56:56:INFO:************ Starting Add Customer Test **************
+2025-09-14 12:56:59:INFO:************** Providing Customer Info Started ****************
+2025-09-14 12:57:04:INFO:************** nopCommerce admin demo store Selected *****************
+2025-09-14 12:57:12:INFO:*********** Test 3 Add New Customer Test Failed *************
+2025-09-14 12:59:22:INFO:**********Test Case 3: Add New Customer Started ************
+2025-09-14 12:59:30:INFO:********* Login Completed **********
+2025-09-14 12:59:30:INFO:************ Starting Add Customer Test **************
+2025-09-14 12:59:33:INFO:************** Providing Customer Info Started ****************
+2025-09-14 12:59:39:INFO:************** nopCommerce admin demo store Selected *****************
+2025-09-14 12:59:45:INFO:*********** Test 3 Add New Customer Test Failed *************
+2025-09-14 13:00:40:INFO:**********Test Case 3: Add New Customer Started ************
+2025-09-14 13:00:46:INFO:********* Login Completed **********
+2025-09-14 13:00:46:INFO:************ Starting Add Customer Test **************
+2025-09-14 13:00:49:INFO:************** Providing Customer Info Started ****************
+2025-09-14 13:00:54:INFO:************** nopCommerce admin demo store Selected *****************
+2025-09-14 13:08:22:INFO:**********Test Case 3: Add New Customer Started ************
+2025-09-14 13:08:28:INFO:********* Login Completed **********
+2025-09-14 13:08:28:INFO:************ Starting Add Customer Test **************
+2025-09-14 13:08:33:INFO:************** Providing Customer Info Started ****************
+2025-09-14 13:08:38:INFO:************** nopCommerce admin demo store Selected *****************
+2025-09-14 13:09:12:INFO:**********Test Case 3: Add New Customer Started ************
+2025-09-14 13:09:17:INFO:********* Login Completed **********
+2025-09-14 13:09:17:INFO:************ Starting Add Customer Test **************
+2025-09-14 13:09:22:INFO:************** Providing Customer Info Started ****************
+2025-09-14 13:09:27:INFO:************** nopCommerce admin demo store Selected *****************
+2025-09-14 13:16:47:INFO:**********Test Case 3: Add New Customer Started ************
+2025-09-14 13:16:51:INFO:********* Login Completed **********
+2025-09-14 13:16:51:INFO:************ Starting Add Customer Test **************
+2025-09-14 13:16:53:INFO:************** Providing Customer Info Started ****************
+2025-09-14 13:16:56:INFO:************** nopCommerce admin demo store Selected *****************
+2025-09-14 13:18:58:INFO:**********Test Case 3: Add New Customer Started ************
+2025-09-14 13:19:03:INFO:********* Login Completed **********
+2025-09-14 13:19:03:INFO:************ Starting Add Customer Test **************
+2025-09-14 13:19:05:INFO:************** Providing Customer Info Started ****************
+2025-09-14 13:19:08:INFO:************** nopCommerce admin demo store Selected *****************
+2025-09-14 13:19:59:INFO:**********Test Case 3: Add New Customer Started ************
+2025-09-14 13:20:03:INFO:********* Login Completed **********
+2025-09-14 13:20:03:INFO:************ Starting Add Customer Test **************
+2025-09-14 13:20:05:INFO:************** Providing Customer Info Started ****************
+2025-09-14 13:20:30:INFO:**********Test Case 3: Add New Customer Started ************
+2025-09-14 13:20:34:INFO:********* Login Completed **********
+2025-09-14 13:20:34:INFO:************ Starting Add Customer Test **************
+2025-09-14 13:20:47:INFO:************** Providing Customer Info Started ****************
+2025-09-14 13:20:50:INFO:************** nopCommerce admin demo store Selected *****************
+2025-09-14 13:24:02:INFO:**********Test Case 3: Add New Customer Started ************
+2025-09-14 13:24:06:INFO:********* Login Completed **********
+2025-09-14 13:24:06:INFO:************ Starting Add Customer Test **************
+2025-09-14 13:24:08:INFO:************** Providing Customer Info Started ****************
+2025-09-14 13:24:11:INFO:************** nopCommerce admin demo store Selected *****************
+2025-09-14 13:24:18:INFO:*********** Test 3 Add New Customer Test Failed *************
+2025-09-14 13:25:38:INFO:**********Test Case 3: Add New Customer Started ************
+2025-09-14 13:25:41:INFO:********* Login Completed **********
+2025-09-14 13:25:41:INFO:************ Starting Add Customer Test **************
+2025-09-14 13:26:16:INFO:**********Test Case 3: Add New Customer Started ************
+2025-09-14 13:26:21:INFO:********* Login Completed **********
+2025-09-14 13:26:21:INFO:************ Starting Add Customer Test **************
+2025-09-14 13:26:23:INFO:************** Providing Customer Info Started ****************
+2025-09-14 13:26:26:INFO:************** nopCommerce admin demo store Selected *****************
+2025-09-14 13:26:32:INFO:*********** Test 3 Add New Customer Test Failed *************
+2025-09-14 13:29:07:INFO:**********Test Case 3: Add New Customer Started ************
+2025-09-14 13:29:10:INFO:********* Login Completed **********
+2025-09-14 13:29:10:INFO:************ Starting Add Customer Test **************
+2025-09-14 13:29:48:INFO:**********Test Case 3: Add New Customer Started ************
+2025-09-14 13:29:53:INFO:********* Login Completed **********
+2025-09-14 13:29:53:INFO:************ Starting Add Customer Test **************
+2025-09-14 13:30:43:INFO:**********Test Case 3: Add New Customer Started ************
+2025-09-14 13:30:47:INFO:********* Login Completed **********
+2025-09-14 13:30:47:INFO:************ Starting Add Customer Test **************
+2025-09-14 13:30:50:INFO:************** Providing Customer Info Started ****************
+2025-09-14 13:30:53:INFO:************** nopCommerce admin demo store Selected *****************
+2025-09-14 13:34:54:INFO:**********Test Case 3: Add New Customer Started ************
+2025-09-14 13:34:58:INFO:********* Login Completed **********
+2025-09-14 13:34:58:INFO:************ Starting Add Customer Test **************
+2025-09-14 13:35:26:INFO:**********Test Case 3: Add New Customer Started ************
+2025-09-14 13:35:35:INFO:********* Login Completed **********
+2025-09-14 13:35:35:INFO:************ Starting Add Customer Test **************
+2025-09-14 13:35:54:INFO:**********Test Case 3: Add New Customer Started ************
+2025-09-14 13:36:00:INFO:********* Login Completed **********
+2025-09-14 13:36:00:INFO:************ Starting Add Customer Test **************
+2025-09-14 13:36:03:INFO:************** Providing Customer Info Started ****************
+2025-09-14 13:36:06:INFO:************** nopCommerce admin demo store Selected *****************
+2025-09-14 13:36:13:INFO:*********** Test 3 Add New Customer Test Passed *************
+2025-09-14 13:37:47:INFO:**********Test Case 3: Add New Customer Started ************
+2025-09-14 13:37:55:INFO:********* Login Completed **********
+2025-09-14 13:37:55:INFO:************ Starting Add Customer Test **************
+2025-09-14 13:37:57:INFO:************** Providing Customer Info Started ****************
+2025-09-14 13:38:00:INFO:************** nopCommerce admin demo store Selected *****************
+2025-09-14 13:38:07:INFO:*********** Test 3 Add New Customer Test Passed *************
+2025-09-14 13:39:02:INFO:**********Test Case 3: Add New Customer Started ************
+2025-09-14 13:39:07:INFO:********* Login Completed **********
+2025-09-14 13:39:07:INFO:************ Starting Add Customer Test **************
+2025-09-14 13:39:10:INFO:************** Providing Customer Info Started ****************
+2025-09-14 13:39:13:INFO:************** nopCommerce admin demo store Selected *****************
+2025-09-14 13:39:20:INFO:*********** Test 3 Add New Customer Test Passed *************
+2025-09-14 13:40:00:INFO:**********Test Case 3: Add New Customer Started ************
+2025-09-14 13:40:04:INFO:********* Login Completed **********
+2025-09-14 13:40:04:INFO:************ Starting Add Customer Test **************
+2025-09-14 13:40:20:INFO:**********Test Case 3: Add New Customer Started ************
+2025-09-14 13:40:25:INFO:********* Login Completed **********
+2025-09-14 13:40:25:INFO:************ Starting Add Customer Test **************
+2025-09-14 13:40:28:INFO:************** Providing Customer Info Started ****************
+2025-09-14 13:40:31:INFO:************** nopCommerce admin demo store Selected *****************
+2025-09-14 13:40:38:INFO:*********** Test 3 Add New Customer Test Passed *************
+2025-09-15 08:33:04:INFO:********* Test_04_Search Customer with Email Started **********
+2025-09-15 08:33:08:INFO:*********** Login Completed **************
+2025-09-15 08:33:08:INFO:*********** Navigating to Customer Search Page **************
+2025-09-15 08:33:31:INFO:*********** Test 4: Search Customer with Name Started **************
+2025-09-15 08:33:34:INFO:*********** Test 4: Search Customer with Company Name Started **************
+2025-09-15 08:33:43:INFO:********* Test_04_Search Customer with Email Started **********
+2025-09-15 08:33:47:INFO:*********** Login Completed **************
+2025-09-15 08:33:47:INFO:*********** Navigating to Customer Search Page **************
+2025-09-15 08:33:48:INFO:*********** Starting Search Customer By Email **************
+2025-09-15 08:33:53:INFO:*********** Test 4: Search Customer with Name Started **************
+2025-09-15 08:33:57:INFO:*********** Login Completed **************
+2025-09-15 08:33:57:INFO:*********** Navigating to Customer Search Page **************
+2025-09-15 08:33:59:INFO:*********** Starting Search Customer By Name **************
+2025-09-15 08:34:04:INFO:*********** Test 4: Search Customer with Company Name Started **************
+2025-09-15 08:34:07:INFO:*********** Login Completed **************
+2025-09-15 08:34:07:INFO:*********** Navigating to Customer Search Page **************
+2025-09-15 08:34:09:INFO:*********** Starting Search Customer By Company Name **************
+2025-09-15 08:38:49:INFO:********* Test_04_Search Customer with Email Started **********
+2025-09-15 08:38:54:INFO:*********** Login Completed **************
+2025-09-15 08:38:54:INFO:*********** Navigating to Customer Search Page **************
+2025-09-15 08:38:55:INFO:*********** Starting Search Customer By Email **************
+2025-09-15 08:39:01:INFO:*********** Test 4: Search Customer with Name Started **************
+2025-09-15 08:39:07:INFO:*********** Login Completed **************
+2025-09-15 08:39:07:INFO:*********** Navigating to Customer Search Page **************
+2025-09-15 08:39:08:INFO:*********** Starting Search Customer By Name **************
+2025-09-15 08:39:13:INFO:*********** Test 4: Search Customer with Company Name Started **************
+2025-09-15 08:39:17:INFO:*********** Login Completed **************
+2025-09-15 08:39:17:INFO:*********** Navigating to Customer Search Page **************
+2025-09-15 08:39:18:INFO:*********** Starting Search Customer By Company Name **************
+2025-09-15 08:43:35:INFO:********* Test_04_Search Customer with Email Started **********
+2025-09-15 08:43:40:INFO:*********** Login Completed **************
+2025-09-15 08:43:40:INFO:*********** Navigating to Customer Search Page **************
+2025-09-15 08:43:40:INFO:*********** Starting Search Customer By Email **************
+2025-09-15 08:43:46:INFO:*********** Test 4: Search Customer with Name Started **************
+2025-09-15 08:43:49:INFO:*********** Login Completed **************
+2025-09-15 08:43:49:INFO:*********** Navigating to Customer Search Page **************
+2025-09-15 08:43:50:INFO:*********** Starting Search Customer By Name **************
+2025-09-15 08:43:56:INFO:*********** Test 4: Search Customer with Company Name Started **************
+2025-09-15 08:44:00:INFO:*********** Login Completed **************
+2025-09-15 08:44:00:INFO:*********** Navigating to Customer Search Page **************
+2025-09-15 08:44:01:INFO:*********** Starting Search Customer By Company Name **************
+2025-09-15 09:03:53:INFO:********* Test_04_Search Customer with Email Started **********
+2025-09-15 09:03:59:INFO:*********** Login Completed **************
+2025-09-15 09:03:59:INFO:*********** Navigating to Customer Search Page **************
+2025-09-15 09:04:00:INFO:*********** Starting Search Customer By Email **************
+2025-09-15 09:04:05:INFO:*********** Test 4: Search Customer with Name Started **************
+2025-09-15 09:04:08:INFO:*********** Login Completed **************
+2025-09-15 09:04:08:INFO:*********** Navigating to Customer Search Page **************
+2025-09-15 09:04:10:INFO:*********** Starting Search Customer By Name **************
+2025-09-15 09:04:15:INFO:*********** Test 4: Search Customer with Company Name Started **************
+2025-09-15 09:04:18:INFO:*********** Login Completed **************
+2025-09-15 09:04:18:INFO:*********** Navigating to Customer Search Page **************
+2025-09-15 09:04:19:INFO:*********** Starting Search Customer By Company Name **************
+2025-09-15 09:13:27:INFO:********* Test_04_Search Customer with Email Started **********
+2025-09-15 09:13:35:INFO:*********** Login Completed **************
+2025-09-15 09:13:35:INFO:*********** Navigating to Customer Search Page **************
+2025-09-15 09:13:36:INFO:*********** Starting Search Customer By Email **************
+2025-09-15 09:13:38:INFO:*********** Test 4: Search Customer with Name Started **************
+2025-09-15 09:13:42:INFO:*********** Login Completed **************
+2025-09-15 09:13:42:INFO:*********** Navigating to Customer Search Page **************
+2025-09-15 09:13:43:INFO:*********** Starting Search Customer By Name **************
+2025-09-15 09:13:46:INFO:*********** Test 4: Search Customer with Company Name Started **************
+2025-09-15 09:13:50:INFO:*********** Login Completed **************
+2025-09-15 09:13:50:INFO:*********** Navigating to Customer Search Page **************
+2025-09-15 09:13:51:INFO:*********** Starting Search Customer By Company Name **************
+2025-09-15 09:15:58:INFO:********* Test_04_Search Customer with Email Started **********
+2025-09-15 09:16:01:INFO:*********** Login Completed **************
+2025-09-15 09:16:01:INFO:*********** Navigating to Customer Search Page **************
+2025-09-15 09:16:02:INFO:*********** Starting Search Customer By Email **************
+2025-09-15 09:16:06:INFO:*********** Test 4: Search Customer with Name Started **************
+2025-09-15 09:16:10:INFO:*********** Login Completed **************
+2025-09-15 09:16:10:INFO:*********** Navigating to Customer Search Page **************
+2025-09-15 09:16:11:INFO:*********** Starting Search Customer By Name **************
+2025-09-15 09:16:16:INFO:*********** Test 4: Search Customer with Company Name Started **************
+2025-09-15 09:16:20:INFO:*********** Login Completed **************
+2025-09-15 09:16:20:INFO:*********** Navigating to Customer Search Page **************
+2025-09-15 09:19:06:INFO:********* Test_04_Search Customer with Email Started **********
+2025-09-15 09:19:10:INFO:*********** Login Completed **************
+2025-09-15 09:19:10:INFO:*********** Navigating to Customer Search Page **************
+2025-09-15 09:19:11:INFO:*********** Starting Search Customer By Email **************
+2025-09-15 09:19:16:INFO:*********** Test 4: Search Customer with Name Started **************
+2025-09-15 09:19:19:INFO:*********** Login Completed **************
+2025-09-15 09:19:19:INFO:*********** Navigating to Customer Search Page **************
+2025-09-15 09:19:20:INFO:*********** Starting Search Customer By Name **************
+2025-09-15 09:19:25:INFO:*********** Test 4: Search Customer with Company Name Started **************
+2025-09-15 09:19:28:INFO:*********** Login Completed **************
+2025-09-15 09:19:28:INFO:*********** Navigating to Customer Search Page **************
+2025-09-15 09:19:31:INFO:*********** Starting Search Customer By Company Name **************
+2025-09-15 09:23:26:INFO:********* Test_04_Search Customer with Email Started **********
+2025-09-15 09:23:31:INFO:*********** Login Completed **************
+2025-09-15 09:23:31:INFO:*********** Navigating to Customer Search Page **************
+2025-09-15 09:23:37:INFO:*********** Starting Search Customer By Email **************
+2025-09-15 09:23:43:INFO:*********** Test 4: Search Customer with Name Started **************
+2025-09-15 09:23:50:INFO:*********** Login Completed **************
+2025-09-15 09:23:50:INFO:*********** Navigating to Customer Search Page **************
+2025-09-15 09:23:51:INFO:*********** Starting Search Customer By Name **************
+2025-09-15 09:23:58:INFO:*********** Test 4: Search Customer with Company Name Started **************
+2025-09-15 09:24:03:INFO:*********** Login Completed **************
+2025-09-15 09:24:03:INFO:*********** Navigating to Customer Search Page **************
+2025-09-15 09:24:05:INFO:*********** Starting Search Customer By Company Name **************
+2025-09-15 09:25:47:INFO:********* Test_04_Search Customer with Email Started **********
+2025-09-15 09:25:51:INFO:*********** Login Completed **************
+2025-09-15 09:25:51:INFO:*********** Navigating to Customer Search Page **************
+2025-09-15 09:25:54:INFO:*********** Starting Search Customer By Email **************
+2025-09-15 09:26:00:INFO:*********** Test 4: Search Customer with Name Started **************
+2025-09-15 09:26:04:INFO:*********** Login Completed **************
+2025-09-15 09:26:04:INFO:*********** Navigating to Customer Search Page **************
+2025-09-15 09:26:06:INFO:*********** Starting Search Customer By Name **************
+2025-09-15 09:26:12:INFO:*********** Test 4: Search Customer with Company Name Started **************
+2025-09-15 09:26:17:INFO:*********** Login Completed **************
+2025-09-15 09:26:17:INFO:*********** Navigating to Customer Search Page **************
+2025-09-15 09:26:18:INFO:*********** Starting Search Customer By Company Name **************
+2025-09-15 13:39:10:INFO:********* Test_04_Search Customer with Email Started **********
+2025-09-15 13:39:19:INFO:*********** Login Completed **************
+2025-09-15 13:39:19:INFO:*********** Navigating to Customer Search Page **************
+2025-09-15 13:39:21:INFO:*********** Starting Search Customer By Email **************
+2025-09-15 13:39:27:INFO:*********** Test 4: Search Customer with Name Started **************
+2025-09-15 13:39:32:INFO:*********** Login Completed **************
+2025-09-15 13:39:32:INFO:*********** Navigating to Customer Search Page **************
+2025-09-15 13:39:35:INFO:*********** Starting Search Customer By Name **************
+2025-09-15 13:39:42:INFO:*********** Test 4: Search Customer with Company Name Started **************
+2025-09-15 13:39:46:INFO:*********** Login Completed **************
+2025-09-15 13:39:46:INFO:*********** Navigating to Customer Search Page **************
+2025-09-15 13:39:48:INFO:*********** Starting Search Customer By Company Name **************
+2025-09-15 13:41:57:INFO:********* Test_04_Search Customer with Email Started **********
+2025-09-15 13:42:03:INFO:*********** Login Completed **************
+2025-09-15 13:42:03:INFO:*********** Navigating to Customer Search Page **************
+2025-09-15 13:42:04:INFO:*********** Starting Search Customer By Email **************
+2025-09-15 13:42:09:INFO:************ Test Case: Search Customer By Email Test Failed ****************
+2025-09-15 13:42:12:INFO:*********** Test 4: Search Customer with Name Started **************
+2025-09-15 13:42:17:INFO:*********** Login Completed **************
+2025-09-15 13:42:17:INFO:*********** Navigating to Customer Search Page **************
+2025-09-15 13:42:19:INFO:*********** Starting Search Customer By Name **************
+2025-09-15 13:42:24:INFO:************ Test Case: Search Customer By Name Test Failed ****************
+2025-09-15 13:42:27:INFO:*********** Test 4: Search Customer with Company Name Started **************
+2025-09-15 13:42:32:INFO:*********** Login Completed **************
+2025-09-15 13:42:32:INFO:*********** Navigating to Customer Search Page **************
+2025-09-15 13:42:34:INFO:*********** Starting Search Customer By Company Name **************
+2025-09-15 13:44:45:INFO:**********Test Case 3: Add New Customer Started ************
+2025-09-15 13:44:55:INFO:********* Test_04_Search Customer with Email Started **********
+2025-09-15 13:45:01:INFO:*********** Login Completed **************
+2025-09-15 13:45:01:INFO:*********** Navigating to Customer Search Page **************
+2025-09-15 13:45:03:INFO:*********** Starting Search Customer By Email **************
+2025-09-15 13:45:08:INFO:************ Test Case: Search Customer By Email Test Passed ****************
+2025-09-15 13:45:10:INFO:*********** Test 4: Search Customer with Name Started **************
+2025-09-15 13:45:16:INFO:*********** Login Completed **************
+2025-09-15 13:45:16:INFO:*********** Navigating to Customer Search Page **************
+2025-09-15 13:45:18:INFO:*********** Starting Search Customer By Name **************
+2025-09-15 13:45:23:INFO:************ Test Case: Search Customer By Name Test Failed ****************
+2025-09-15 13:45:26:INFO:*********** Test 4: Search Customer with Company Name Started **************
+2025-09-15 13:45:32:INFO:*********** Login Completed **************
+2025-09-15 13:45:32:INFO:*********** Navigating to Customer Search Page **************
+2025-09-15 13:45:34:INFO:*********** Starting Search Customer By Company Name **************
+2025-09-15 13:47:11:INFO:********* Test_04_Search Customer with Email Started **********
+2025-09-15 13:47:18:INFO:*********** Login Completed **************
+2025-09-15 13:47:18:INFO:*********** Navigating to Customer Search Page **************
+2025-09-15 13:47:20:INFO:*********** Starting Search Customer By Email **************
+2025-09-15 13:47:24:INFO:************ Test Case: Search Customer By Email Test Passed ****************
+2025-09-15 13:47:27:INFO:*********** Test 4: Search Customer with Name Started **************
+2025-09-15 13:47:30:INFO:*********** Login Completed **************
+2025-09-15 13:47:30:INFO:*********** Navigating to Customer Search Page **************
+2025-09-15 13:47:33:INFO:*********** Starting Search Customer By Name **************
+2025-09-15 13:47:37:INFO:************ Test Case: Search Customer By Name Test Passed ****************
+2025-09-15 13:47:39:INFO:*********** Test 4: Search Customer with Company Name Started **************
+2025-09-15 13:47:44:INFO:*********** Login Completed **************
+2025-09-15 13:47:44:INFO:*********** Navigating to Customer Search Page **************
+2025-09-15 13:47:46:INFO:*********** Starting Search Customer By Company Name **************
+2025-09-15 13:49:32:INFO:********* Test_04_Search Customer with Email Started **********
+2025-09-15 13:49:37:INFO:*********** Login Completed **************
+2025-09-15 13:49:37:INFO:*********** Navigating to Customer Search Page **************
+2025-09-15 13:49:38:INFO:*********** Starting Search Customer By Email **************
+2025-09-15 13:49:43:INFO:************ Test Case: Search Customer By Email Test Passed ****************
+2025-09-15 13:49:45:INFO:*********** Test 4: Search Customer with Name Started **************
+2025-09-15 13:49:49:INFO:*********** Login Completed **************
+2025-09-15 13:49:49:INFO:*********** Navigating to Customer Search Page **************
+2025-09-15 13:49:52:INFO:*********** Starting Search Customer By Name **************
+2025-09-15 13:49:56:INFO:************ Test Case: Search Customer By Name Test Passed ****************
+2025-09-15 13:49:58:INFO:*********** Test 4: Search Customer with Company Name Started **************
+2025-09-15 13:50:04:INFO:*********** Login Completed **************
+2025-09-15 13:50:04:INFO:*********** Navigating to Customer Search Page **************
+2025-09-15 13:50:05:INFO:*********** Starting Search Customer By Company Name **************
+2025-09-15 13:50:10:INFO:************ Test Case: Search Customer By Company Name Test Passed ****************
+2025-09-21 11:01:18:INFO:********* Test_04_Search Customer with Email Started **********
+2025-09-21 11:01:28:INFO:*********** Login Completed **************
+2025-09-21 11:01:28:INFO:*********** Navigating to Customer Search Page **************
+2025-09-21 11:01:52:INFO:*********** Test 4: Search Customer with Name Started **************
+2025-09-21 11:01:57:INFO:*********** Test 4: Search Customer with Company Name Started **************
+2025-09-21 11:02:14:INFO:********* Test_04_Search Customer with Email Started **********
+2025-09-21 11:02:19:INFO:*********** Login Completed **************
+2025-09-21 11:02:19:INFO:*********** Navigating to Customer Search Page **************
+2025-09-21 11:02:24:INFO:*********** Starting Search Customer By Email **************
+2025-09-21 11:02:28:INFO:************ Test Case: Search Customer By Email Test Passed ****************
+2025-09-21 11:02:30:INFO:*********** Test 4: Search Customer with Name Started **************
+2025-09-21 11:02:35:INFO:*********** Login Completed **************
+2025-09-21 11:02:35:INFO:*********** Navigating to Customer Search Page **************
+2025-09-21 11:02:38:INFO:*********** Starting Search Customer By Name **************
+2025-09-21 11:03:06:INFO:*********** Test 4: Search Customer with Company Name Started **************
+2025-09-21 11:03:11:INFO:*********** Login Completed **************
+2025-09-21 11:03:11:INFO:*********** Navigating to Customer Search Page **************
+2025-09-21 11:03:14:INFO:*********** Starting Search Customer By Company Name **************
+2025-09-21 11:04:16:INFO:********* Test_04_Search Customer with Email Started **********
+2025-09-21 11:04:23:INFO:*********** Login Completed **************
+2025-09-21 11:04:23:INFO:*********** Navigating to Customer Search Page **************
+2025-09-21 11:04:25:INFO:*********** Starting Search Customer By Email **************
+2025-09-21 11:04:30:INFO:************ Test Case: Search Customer By Email Test Passed ****************
+2025-09-21 11:04:33:INFO:*********** Test 4: Search Customer with Name Started **************
+2025-09-21 11:04:40:INFO:*********** Login Completed **************
+2025-09-21 11:04:40:INFO:*********** Navigating to Customer Search Page **************
+2025-09-21 11:04:43:INFO:*********** Starting Search Customer By Name **************
+2025-09-21 11:05:11:INFO:*********** Test 4: Search Customer with Company Name Started **************
+2025-09-21 11:05:16:INFO:*********** Login Completed **************
+2025-09-21 11:05:16:INFO:*********** Navigating to Customer Search Page **************
+2025-09-21 11:05:17:INFO:*********** Starting Search Customer By Company Name **************
+2025-09-21 15:21:05:INFO:**********Test Case 3: Add New Customer Started ************
+2025-09-21 15:21:11:INFO:********* Login Completed **********
+2025-09-21 15:21:11:INFO:************ Starting Add Customer Test **************
+2025-09-21 15:21:14:INFO:************** Providing Customer Info Started ****************
+2025-09-21 15:21:18:INFO:************** nopCommerce admin demo store Selected *****************
+2025-09-21 15:21:26:INFO:*********** Test 3 Add New Customer Test Passed *************
+2025-09-21 15:21:29:INFO:**************** Test Login Started *******************
+2025-09-21 15:21:35:INFO:**************** Dashboard Text Found *******************
+2025-09-21 15:21:38:INFO:********* Test_04_Search Customer with Email Started **********
+2025-09-21 15:21:42:INFO:*********** Login Completed **************
+2025-09-21 15:21:42:INFO:*********** Navigating to Customer Search Page **************
+2025-09-21 15:21:46:INFO:*********** Starting Search Customer By Email **************
+2025-09-21 15:21:51:INFO:************ Test Case: Search Customer By Email Test Passed ****************
